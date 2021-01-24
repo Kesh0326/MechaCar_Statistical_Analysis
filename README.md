@@ -10,10 +10,10 @@
 
 ## Summary Statistics on Suspension Coils
 
-![Suspension Coils Overall Summary]()
+![Suspension Coils Overall Summary](Total_Summary.png)
 
 - Based on the total summary dataframe, it can be seen that the overall variance of the suspension coils is 62.29 which is within the design specification of 100 PSI and as such meets the design criteria
 
-![Suspension Coils Lot Summary]()
+![Suspension Coils Lot Summary](Lot_Summary.png)
 
 - Based on the summary by lots, it can be seen that for Lots 1 and 2, the variance is well within the design specification of 100 PSI. However, for Lot 3, the variance is 170.29 which exceeds the permissable design specification for suspension coils
