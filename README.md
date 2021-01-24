@@ -36,4 +36,10 @@
 
 - Based on the t-test for Lot 3, assuming a significance level of 0.05, our p-value of 0.04 is below the significance level indicating we have sufficient evidence to reject our null hypothesis and so the mean is statistically different to the population mean of 1500 PSI
 
- 
+## Study Design: MechaCar vs Competition
+
+- As part of the product launch strategy and to set MechaCar apart from its competition it is important to identify the key differentiators. Some key differentiating metrics will be Hardware Responsiveness (eg: time taken for windows to roll down from when it is initiated through a button), Brakepad Efficiency, Fuel Efficiency, Monthly Maintenance Cost and Safety Rating Index 
+- The null hypothesis is that fuel efficiency is not a driving factor in customers' purchasing decision, in the MechaCar segment of cars
+- A regression analysis showing the variation of MechaCar sales over a period of time along with the corresponding fuel efficiency of different models of the MechCar over the years can help predict if fuel efficiency is a driver in the customer's purchasing decision 
+- In order to run this test, we will need the fuel consumption details of previous models of the MechaCar over a considerable amount of time and the purchase history indicating how many units have been purchased over that period of time to help us test and conclusively deduce whether fuel efficiency is indeed a driver in a customer's purchasing decision
+
