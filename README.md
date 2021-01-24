@@ -34,6 +34,6 @@
 
 ![Lot3](t.test_Lot3.png)
 
-- Based on the t-test for Lot 2, assuming a significance level of 0.05, our p-value of 0.04 is below the significance level indicating we have sufficient evidence to reject our null hypothesis and so the mean is statistically different to the population mean of 1500 PSI
+- Based on the t-test for Lot 3, assuming a significance level of 0.05, our p-value of 0.04 is below the significance level indicating we have sufficient evidence to reject our null hypothesis and so the mean is statistically different to the population mean of 1500 PSI
 
  
