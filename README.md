@@ -24,7 +24,7 @@
 
 - Based on the t-test for all lots, assuming a significance level of 0.05, our p-value of 0.06 is above the significance level indicating we don't have sufficient evidence to reject our null hypothesis and so the mean is statistically similar to the population mean of 1500 PSI
 
-![Lot1]()
+![Lot1](t.test_Lot1.png)
 
 - Based on the t-test for Lot 1, assuming a significance level of 0.05, our p-value of 1 is above the significance level indicating we don't have sufficient evidence to reject our null hypothesis and so the mean is statistically similar to the population mean of 1500 PSI
 
