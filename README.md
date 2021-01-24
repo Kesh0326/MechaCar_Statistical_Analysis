@@ -17,3 +17,23 @@
 ![Suspension Coils Lot Summary](Lot_Summary.png)
 
 - Based on the summary by lots, it can be seen that for Lots 1 and 2, the variance is well within the design specification of 100 PSI. However, for Lot 3, the variance is 170.29 which exceeds the permissable design specification for suspension coils
+
+## T-Tests on Suspension Coils
+
+![All Lots](t.test_all_Lots.png)
+
+- Based on the t-test for all lots, assuming a significance level of 0.05, our p-value of 0.06 is above the significance level indicating we don't have sufficient evidence to reject our null hypothesis and so the mean is statistically similar to the population mean of 1500 PSI
+
+![Lot1]()
+
+- Based on the t-test for Lot 1, assuming a significance level of 0.05, our p-value of 1 is above the significance level indicating we don't have sufficient evidence to reject our null hypothesis and so the mean is statistically similar to the population mean of 1500 PSI
+
+![Lot2](t.test_Lot2.png)
+
+- Based on the t-test for Lot 2, assuming a significance level of 0.05, our p-value of 0.6 is above the significance level indicating we don't have sufficient evidence to reject our null hypothesis and so the mean is statistically similar to the population mean of 1500 PSI
+
+![Lot3](t.test_Lot3.png)
+
+- Based on the t-test for Lot 2, assuming a significance level of 0.05, our p-value of 0.04 is below the significance level indicating we have sufficient evidence to reject our null hypothesis and so the mean is statistically different to the population mean of 1500 PSI
+
+ 
